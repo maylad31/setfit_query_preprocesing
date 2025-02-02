@@ -9,3 +9,7 @@ It is a preprocessing step, I don't feel the need for creating separate classifi
 ## Why query preprocessing?
 
 I think for customer centric applications, analysing the query can be really crucial: decide where to route and what actions need to be taken, is the query relevant enough...
+
+I am always open to interesting projects/opportunities and connecting with like minded people. 
+
+https://www.linkedin.com/in/mayankladdha31/

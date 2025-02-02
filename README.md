@@ -1,6 +1,6 @@
 # setfit_query_preprocessing
 
-This repository implements a multi-head classifier using SetFit for query preprocessing, classifying queries into intent, domain, and human-in-the-loop (hitl) categories. 
+This repository implements a multi-head classifier using SetFit for query preprocessing, classifying queries into intent, domain, and human-in-the-loop (hitl) categories. Still need work..
 
 ## Why?
 

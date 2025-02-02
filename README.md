@@ -6,6 +6,6 @@ This repository implements a multi-head classifier using SetFit for query prepro
 
 It is a preprocessing step, I don't feel the need for creating separate classifiers. So you have shared embeddings and multiple heads for each task which i think is efficient.
 
-##Why query preprocessing?
+## Why query preprocessing?
 
 I think for customer centric applications, analysing the query can be really crucial: decide where to route and what actions need to be taken, is the query relevant enough...
